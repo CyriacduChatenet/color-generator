@@ -1,0 +1,1 @@
+# Simple color generator in TypeScript
